@@ -1,18 +1,19 @@
 {
-  "main.css": "/static/css/main.24ceb3be.chunk.css",
-  "main.js": "/static/js/main.3f314022.chunk.js",
-  "main.js.map": "/static/js/main.3f314022.chunk.js.map",
+  "main.css": "/static/css/main.3e42c43d.chunk.css",
+  "main.js": "/static/js/main.afe13557.chunk.js",
+  "main.js.map": "/static/js/main.afe13557.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.b9a3b6ed.chunk.js": "/static/js/2.b9a3b6ed.chunk.js",
-  "static/js/2.b9a3b6ed.chunk.js.map": "/static/js/2.b9a3b6ed.chunk.js.map",
+  "static/js/2.cfdd705e.chunk.js": "/static/js/2.cfdd705e.chunk.js",
+  "static/js/2.cfdd705e.chunk.js.map": "/static/js/2.cfdd705e.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.5e92a5edf4d634a8f7d7c777924dee3c.js": "/precache-manifest.5e92a5edf4d634a8f7d7c777924dee3c.js",
+  "precache-manifest.71cb0a0b0e364c846e1b4fa81797ead5.js": "/precache-manifest.71cb0a0b0e364c846e1b4fa81797ead5.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.24ceb3be.chunk.css.map": "/static/css/main.24ceb3be.chunk.css.map",
+  "static/css/main.3e42c43d.chunk.css.map": "/static/css/main.3e42c43d.chunk.css.map",
   "static/media/MultiprizerLogo.png": "/static/media/MultiprizerLogo.25567053.png",
   "static/media/MultiprizerLogoBlue.png": "/static/media/MultiprizerLogoBlue.9902dee5.png",
   "static/media/MultiprizerSplash.png": "/static/media/MultiprizerSplash.9af5cf9f.png",
+  "static/media/index.css": "/static/media/Orbitron.e3fe1653.ttf",
   "static/media/App.css": "/static/media/bg.ef2f5a60.jpg",
   "static/media/bg1.png": "/static/media/bg1.f72dc231.png",
   "static/media/bg102.jpg": "/static/media/bg102.08fa2f96.jpg",
@@ -30,5 +31,5 @@
   "static/media/metamask.png": "/static/media/metamask.a40f2004.png",
   "static/media/trustWallet2.png": "/static/media/trustWallet2.d4312196.png",
   "static/media/web3bg(big).png": "/static/media/web3bg(big).d00f1859.png",
-  "static/media/web3bg.jpg": "/static/media/web3bg.25ccec67.jpg"
+  "static/media/web3bg.jpg": "/static/media/web3bg.612b5b0a.jpg"
 }
